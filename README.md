@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://github.com/d0n3jt/mapa
+- Leaflet Map https://github.com/d0n3jt/mapa.git
 - Google Sheets template https://docs.google.com/spreadsheets/d/1rl74MUL1OsGrHok0qYaoJozr3n7YwKA7Slf7N1uAoWw/edit#gid=0
 
 ## Create Your Own
